@@ -93,7 +93,7 @@ while turns > 0:
         print("You have", + turns, 'more guesses')
 
         if turns == 0:
-            print("You Loose! You didnot have save your friend.\n
+            print("You Loose! You didnot have save your friend.\n"
 
                   "--------\n"
                   "|       \n"
